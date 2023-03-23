@@ -17,4 +17,4 @@ Java 개발자 과정 프론트앤드 리포지토리
     - HTML 5 입력태그
     - CSS 3 기본
     - CSS 3 고급
-<img src = "file:///C:/Source/basic-html-2023/image/day02_%EC%BD%A4%EB%B3%B4%EB%B0%95%EC%8A%A4.png" width=300>
+<img src = "https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/day02_콤보박스.png" width=300>
