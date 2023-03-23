@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>CSS 위치속성</title>
+    <style>
+        #out /* body > div */ {
+            width: 430px;
+            height: 150px;
+            border: 2px solid black;
+            position: relative;
+            overflow-y: hidden;
+        }
+        .box {
+            width: 100px; height: 100px;
+            position: absolute;
+        }
+        .box:nth-child(1) {
+            left: 10px; top: 10px;
+            z-index: 100;
+            background-color: red;}
+        .box:nth-child(2) {
+            left: 50px; top: 50px;
+            z-index: 10;
+            background-color: rgba(0, 128, 0, 0.7);}
+        .box:nth-child(3) {
+            left: 90px; top: 90px;
+            z-index: 1;
+            background-color: blue;}
+
+    </style>
+</head>
+<body>
+    <h1>Lorem ipsum dolor sit</h1>
+    <div id="out">
+        <div class="box"></div>    
+        <div class="box"></div>    
+        <div class="box"></div>    
+    </div>
+    <h1>Lorem ipsum dolor sit</h1>
+</body>
+</html>
