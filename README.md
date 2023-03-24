@@ -39,6 +39,6 @@ Java 개발자 과정 프론트앤드 리포지토리
 
 ## 5일차
 - 프론트엔드 학습
-    - Jacascript 마무리
+    - js/jQuery 연동
     - Bootstrap 학습
     - 포토폴리오 웹사이트 만들기
