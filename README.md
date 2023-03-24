@@ -35,7 +35,7 @@ Java 개발자 과정 프론트앤드 리포지토리
     - Jacascript 기초
 
 4일차 그리드레이아웃 포토갤러리
-<img src="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/gallery.png" width="600">
+<img src="https://github.com/eunjoengme/basic-html-2023/blob/main/image/gallery01.png?raw=true" width="600">
 
 ## 5일차
 - 프론트엔드 학습
