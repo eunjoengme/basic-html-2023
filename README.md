@@ -35,6 +35,7 @@ Java 개발자 과정 프론트앤드 리포지토리
     - Jacascript 기초
 
 4일차 그리드레이아웃 포토갤러리
+
 <img src="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/gallery01.png" width="600">
 
 ## 5일차
@@ -44,6 +45,7 @@ Java 개발자 과정 프론트앤드 리포지토리
     - 포토폴리오 웹사이트 만들기
     
 5일차
+
 <img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/day05_%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8_%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B0%95%EC%8A%A4.png" width="600">
 
 ## 6일차
