@@ -44,7 +44,7 @@ Java 개발자 과정 프론트앤드 리포지토리
     - 포토폴리오 웹사이트 만들기
     
 5일차
-<img src ="https://github.com/eunjoengme/basic-html-2023/blob/main/image/day05_%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8_%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B0%95%EC%8A%A4.png?raw=true" width="600">
+<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/day05_%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8_%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B0%95%EC%8A%A4.png" width="600">
 
 ## 6일차
 - 
