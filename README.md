@@ -46,7 +46,7 @@ Java 개발자 과정 프론트앤드 리포지토리
     
 5일차 플러그인 라이트박스
 
-<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/day05_lightbox.png" width="600">
+<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/day05_lightbox.png" width="500">
 
 ## 6일차
 - 프론트엔드 학습
