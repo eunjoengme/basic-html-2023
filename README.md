@@ -65,6 +65,7 @@ Java 개발자 과정 프론트앤드 리포지토리
         - Masonry layout Library
         - ImageLoaded Library
         - Lightbox 구현
+    - Parallax Scrolling Web
     
 7일차 핀터레스트 스타일 클로닝
 
