@@ -77,7 +77,7 @@ Parallax Scrolling Web
 
 <img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/parallax.png" width="700">
 
-##8일차
+## 8일차
 - 프론트엔드 학습
     - Single Page Template
     - SB Admin Page
