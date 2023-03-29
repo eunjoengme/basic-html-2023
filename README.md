@@ -26,7 +26,7 @@ Java 개발자 과정 프론트앤드 리포지토리
 
 3일차 레이아웃
 
-<img src="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/day03_레이아웃.png" width="600">
+<img src="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/day03_레이아웃.png" width="700">
     
 ## 4일차
 - 프론트엔드 학습
