@@ -150,25 +150,25 @@ img {
     color: #64a19b;
 }
 
-.portfolio-section {
+.portfolios-section {
     padding: 10rem 0;
 }
 
-.portfolio-section .featured-text{
+.portfolios-section .featured-text{
     padding: 2rem;
 }
 
-.portfolio-section .portfolio-text {
+.portfolios-section .portfolio-text {
     padding: 3rem;
     font-size: 90%;
 }
 
 @media screen and (min-width: 992px) {
-    .portfolio-section .featured-text {
+    .portfolios-section .featured-text {
         padding: 0 0 0 2rem;
         border-left: 0.5rem solid #64a19b;
     }
-    .portfolio-section .portfolio-text {
+    .portfolios-section .portfolio-text {
         padding: 5rem;
     }
 }
