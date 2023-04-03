@@ -75,7 +75,7 @@ Java 개발자 과정 프론트앤드 리포지토리
 
 Parallax Scrolling Web
 
-<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/parallax.mp4" width="700">
+<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/parallax.gif" width="700">
 
 ## 8일차
 - 프론트엔드 학습
