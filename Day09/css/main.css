@@ -336,3 +336,11 @@ p {
     min-width: 0;
 }
 
+#errorimage {
+    width: 350px;
+}
+
+#layoutError_content {
+    margin-top: 100px;
+}
+
