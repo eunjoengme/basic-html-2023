@@ -75,19 +75,19 @@ Java 개발자 과정 프론트앤드 리포지토리
 
 Parallax Scrolling Web
 
-<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/parallax.gif" width="700">
+<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/parallax.png" width="700">
 
 ## 8일차
-- 프론트엔드 학습
+- 프론트엔드 실습
     - Single Page Template
     - SB Admin Page
 
 Grayscale Single Page Template
 
-<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/portfolio.png" width="700">
+<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/portfolio3.gif" width="700">
 
 ## 9일차
-- 프론트엔드 학습
+- 프론트엔드 실습
     - SB Admin Page
     - Bootstrap
     - Chart.js
@@ -95,3 +95,14 @@ Grayscale Single Page Template
 SB Admin Page 중간단계
 
 <img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/portfolio4.png" width="700">
+
+## 10일차
+- 프로트엔드 실습
+    - SB Admin Page 마무리
+
+## 11일차
+- 프론트엔드 실습
+
+
+## 12일차
+- 프론트엔드 실습
