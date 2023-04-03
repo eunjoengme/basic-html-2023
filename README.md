@@ -103,7 +103,7 @@ SB Admin Page 중간단계
 
 SB Admin Page 마무리
 
-<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/portfolio4.png" width="700">
+<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/portfolio4(02).png" width="700">
 
 ## 11일차
 - 프론트엔드 실습
