@@ -84,7 +84,7 @@ Parallax Scrolling Web
 
 Grayscale Single Page Template
 
-<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/portfolio3.gif" width="700">
+<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/portfolio3.png" width="700">
 
 ## 9일차
 - 프론트엔드 학습
