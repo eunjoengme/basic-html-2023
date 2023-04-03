@@ -58,6 +58,12 @@ p {
 
 }
 
+/* #layoutLeftSide {
+    position: fixed;
+    top: 56px;
+    left: 0;
+} */
+
 #layoutTotal #layoutContent {
     position: relative;
     display: flex;
@@ -138,9 +144,28 @@ p {
     flex-shrink: 0;
 }
 
+/* 왼쪽 메뉴 디자인 */
 .sb-sidenav-dark {
     background-color: #212529;
     color: rgba(255,255,255,0.5);
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .sb-sidenav-menu-heading {
+    color: rgba(255,255,255,0.25);
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .nav-link{
+    color: rgba(255,255,255,0.5);
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .nav-link:hover,
+.sb-sidenav-dark .sb-sidenav-menu .nav-link:active {
+    color: white;
+    font-weight: 600;
+}
+
+.sb-sidenav-dark .sb-sidenav-menu .nav-link .sb-nav-link-icon {
+    color: rgba(255,255,255,0.25); /* 각 메뉴의 아이콘은 글자보다 좀 어둡게 */
 }
 
 .sb-sidenav-dark .sb-sidenav-footer {
