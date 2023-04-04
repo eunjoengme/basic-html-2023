@@ -108,9 +108,9 @@ SB Admin Page 마무리
 ## 11일차
 - 프론트엔드 실습
 
-Homepage
+Site
 
-<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/homepage.png" width="700">
+<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/site.png" width="700">
 
 
 ## 12일차
