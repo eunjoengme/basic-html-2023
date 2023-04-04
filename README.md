@@ -110,7 +110,7 @@ SB Admin Page 마무리
 
 Homepage
 
-<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/Homepage.png" width="700">
+<img src ="https://raw.githubusercontent.com/eunjoengme/basic-html-2023/main/image/homepage.png" width="700">
 
 
 ## 12일차
