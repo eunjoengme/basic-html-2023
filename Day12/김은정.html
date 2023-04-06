@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title>김은정 페이지</title>
+    <!-- jQuery 추가 -->
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+        integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            margin-top: 100px;
+            background-color: rgb(238, 215, 252);
+        }
+
+        #top {
+            float: left;
+            width: 350px;
+            height: 130px;
+            line-height: 50px;
+        }
+
+        #container {
+            margin: 0 auto;
+            width: 1000px;
+            height: 130px;
+            border-color: rgb(136, 136, 136);
+        }
+
+        #contents {
+            width: 1000px;
+            height: 130px;
+        }
+
+        nav {
+            background-color: gold;
+            width: 1000px;
+            margin-top: 30px;
+            font-weight: bold;
+            padding-left: 20px;
+        }
+
+        .home,
+        .about,
+        .port {
+            text-decoration: none;
+            color: black;
+        }
+
+        a:hover {
+            color: coral;
+        }
+
+        a:active {
+            color: rgb(152, 240, 140);
+        }
+
+        #contact {
+            color: rgb(121, 209, 209);
+        }
+
+        header {
+            width: 1000px;
+            height: 200px;
+            background-color: rgb(107, 106, 106);
+        }
+
+        h1 {
+            color: gold;
+            font-size: 65px;
+            padding-top: 70px;
+            padding-left: 20px;
+        }
+
+        footer {
+            width: 100%;
+            height: 60px;
+            background-color: gold;
+            line-height: 60px;
+            text-align: center;
+        }
+
+        #article {
+            float: left;
+            width: 800px;
+            height: 130px;
+            background-color: rgb(51, 49, 49);
+        }
+
+        #article>p {
+            line-height: 20px;
+            margin-top: 50px;
+            margin-left: 30px;
+            font-weight: bold;
+            font-size: large;
+            color: white;
+        }
+
+        #article>div {
+            margin-left: 30px;
+            margin-top: 20px;
+            color: white;
+        }
+
+        #aside {
+            float: right;
+            width: 200px;
+            height: 130px;
+            background-color: rgb(107, 106, 106);
+            color: white;
+        }
+
+        #aside>p {
+            margin-top: 20px;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <header>
+            <div id="top">
+                <h1>한글 Page</h1>
+                <nav>
+                    <a href="#" id="menu_home" class="home">Home</a>
+                    <a href="#" id="menu_about" class="about">About Me</a>
+                    <a href="#" id="menu_portfolio" class="port">Portfolio</a>
+                    <a href="#" id="menu_contact" class="contact">Contact</a>
+                </nav>
+            </div>
+        </header>
+
+        <div id="contents">
+            <div id="article">
+                <p>섹션1</p>
+                <div>섹션내용입니다.</div>
+            </div>
+            <div id="aside">
+                <p>배너영역</p>
+            </div>
+        </div>
+
+        <footer>
+            <div>&copy; 2023.홍길동.inc reserved.</div>
+        </footer>
+    </div>
+    <!-- Bootstrap용 js는 body에 위치(필수) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N"
+        crossorigin="anonymous"></script>
+
+        <script>
+            $('#menu_home').click(function(){
+                alert('홈 메뉴!')
+            });
+
+            $('#menu_about').click(function(){
+                alert('어바웃미 메뉴!')
+            });
+
+            $('#menu_portfolio').click(function(){
+                alert('포토폴리오 메뉴!')
+            });
+
+            $('#menu_contact').click(function(){
+                alert('컨택트 메뉴!')
+            });
+        </script>
+
+</body>
+
+</html>
